@@ -1,0 +1,7 @@
+C:\Users\st310-02\Desktop\Ratovsky\pract5\pract5\bin\Debug\pract5.exe.config
+C:\Users\st310-02\Desktop\Ratovsky\pract5\pract5\bin\Debug\pract5.exe
+C:\Users\st310-02\Desktop\Ratovsky\pract5\pract5\bin\Debug\pract5.pdb
+C:\Users\st310-02\Desktop\Ratovsky\pract5\pract5\obj\Debug\pract5.csproj.AssemblyReference.cache
+C:\Users\st310-02\Desktop\Ratovsky\pract5\pract5\obj\Debug\pract5.csproj.CoreCompileInputs.cache
+C:\Users\st310-02\Desktop\Ratovsky\pract5\pract5\obj\Debug\pract5.exe
+C:\Users\st310-02\Desktop\Ratovsky\pract5\pract5\obj\Debug\pract5.pdb
